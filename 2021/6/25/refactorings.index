@@ -1,0 +1,13 @@
+1623626001039	Rename type 'ForumApplication'
+1623626020576	Rename package 'br.com.alura.forum'
+1623626067784	Rename package 'br.com.alura.viagem'
+1623626094548	Rename package 'br.com.alura.forum.config.validacao'
+1623626114211	Rename package 'br.com.alura.forum.repository'
+1623626134385	Rename package 'br.com.alura.forum.modelo'
+1623626153476	Rename package 'br.com.alura.forum.controller.form'
+1623626173199	Rename package 'br.com.alura.forum.controller.dto'
+1623626191085	Rename package 'br.com.alura.forum.controller'
+1623627844903	Rename type 'Curso'
+1623627864805	Rename type 'Resposta'
+1623627883816	Rename type 'StatusTopico'
+1623627899225	Delete elements
